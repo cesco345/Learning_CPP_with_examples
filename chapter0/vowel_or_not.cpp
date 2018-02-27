@@ -38,7 +38,7 @@ int main()
             printf("\n %c is a VOWEL \n", ch);
             break;
         
-            default: printf("\nwhat you entered, is not a vowel\n");
+        default: printf("\nwhat you entered, is not a vowel\n");
 
 }
         return 0;
