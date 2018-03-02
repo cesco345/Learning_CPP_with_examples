@@ -1,3 +1,4 @@
+//write a currency converter program that converts yen, euros, and pounds into dollars.
 #include<iostream>
 #include<cstdlib>
 #include<string>
