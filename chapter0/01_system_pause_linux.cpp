@@ -3,7 +3,6 @@
  * @topic 03-09-18 system pause in Linux
  * @brief system pause equivalent
 */
-
 #include <iostream>
 
 int main(int argc, char *argv[])
